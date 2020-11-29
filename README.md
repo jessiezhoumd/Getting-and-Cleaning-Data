@@ -1,5 +1,7 @@
 # Getting-and-Cleaning-Data
-**Peer-graded Assignment: Getting and Cleaning Data Course Project (Coursera)
+
+**Peer-graded Assignment: Getting and Cleaning Data Course Project 
+Getting and Cleaning Data Week 4 by Johns Hopkins University (Coursera)
 
 *The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
