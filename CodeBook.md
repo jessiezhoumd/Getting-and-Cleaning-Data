@@ -7,6 +7,7 @@
 -Activity - name of the activity performed by subject when measurements taken
 
 -Measurements
+
 "TimeBodyAcceleratorMeanX"                    
 "TimeBodyAcceleratorMeanY"                     
 "TimeBodyAcceleratorMeanZ"                      
@@ -64,5 +65,5 @@ Data from the downloaded files:
 
 Data merged from the above data sets
 
-##  r Script
+## r Script
 File with R code "run_analysis.R" perform steps (in accordance assignment instructions listed in README.md file)
